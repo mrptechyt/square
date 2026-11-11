@@ -7,4 +7,6 @@ Share-friendly Binance Square auto-posting bot. Interactive setup — runs once,
 ```bash
 pkg update && pkg install python
 pip install requests apscheduler python-dotenv
+pkg install git
+git clone https://github.com/mrptechyt/square.git
 python mrptech_bot.py
