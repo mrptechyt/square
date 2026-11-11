@@ -9,4 +9,5 @@ pkg update && pkg install python
 pip install requests apscheduler python-dotenv
 pkg install git
 git clone https://github.com/mrptechyt/square.git
+cd square
 python mrptech_bot.py
